@@ -6,7 +6,7 @@
 
 [![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
+**[View Live Preview](https://camposisis.github.io/Digitizing-Latina-Research)**
 
 ## Status
 
